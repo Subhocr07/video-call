@@ -18,12 +18,13 @@
 - Screen Sharing
 
 ## Installation
-### Clone
-- Clone this repo to your local machine using `https://github.com/Hyunse/video-group-meeting.git`
 
 ### Setup
+
 **Client**
+
 > Move to client folder, update and install this package
+
 <pre>
   <code>
     /* Install */
@@ -35,7 +36,9 @@
 </pre>
 
 **Server**
+
 > Move to server folder, update and install this package
+
 <pre>
   <code>
     /* Install */
@@ -49,4 +52,3 @@
 ## Todo 🔨🔨🔨
 
 - [x] Switch Camera options
-
